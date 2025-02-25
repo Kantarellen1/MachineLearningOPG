@@ -1,0 +1,13 @@
+{
+    "train": [
+        {"text": "Den danske regering har annonceret nye miljøtiltag for at reducere CO2-udledning.", 
+         "summary": "Regeringen annoncerer nye miljøtiltag."},
+
+        {"text": "Forskere har opdaget en ny metode til at lagre solenergi mere effektivt.", 
+         "summary": "Ny metode til solenergilagring opdaget."}
+    ],
+    "test": [
+        {"text": "En stor undersøgelse viser, at flere danskere skifter til elbiler.", 
+         "summary": "Flere danskere skifter til elbiler, viser undersøgelse."}
+    ]
+}
